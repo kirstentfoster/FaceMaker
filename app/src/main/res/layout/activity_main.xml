@@ -42,7 +42,7 @@
             android:gravity="center"
             android:orientation="horizontal">
 
-            <SurfaceView
+            <up.edu.facemaker.Face
                 android:id="@+id/FaceDisplay"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
